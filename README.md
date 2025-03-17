@@ -35,8 +35,5 @@ The Facebook Clone is a simple front-end web project that mimics the basic funct
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to submit an issue or a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Author
 Developed by Swarup Birare. If you have any questions, feel free to reach out!
