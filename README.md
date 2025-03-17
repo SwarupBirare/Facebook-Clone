@@ -22,20 +22,8 @@ The Facebook Clone is a simple front-end web project that mimics the basic funct
   - CSS
 
 ## Project Structure
-/facebook-clone
-│-- /css
-│   ├── login.css
-│   ├── home.css
-│-- /image
-│   ├── fb.jpg
-│   ├── profile.JPG
-│   ├── feed.jpeg
-│   ├── zucker.jpg
-│   ├── zucker0.jpg
-│   ├── p1.jpg
-│-- /html
-    ├── login.html  (Login Page)
-    ├── home.html   (Home Page)
+![image](https://github.com/user-attachments/assets/3c2478f5-72e4-468e-bb32-d4e991b399eb)
+
 
 
 ## Screenshots
